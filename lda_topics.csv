@@ -1,0 +1,8 @@
+,0,1,2,3,4,5,6,7,8,9
+Topic 0,share_traded,lowest_past,start_session,traded_start,past_seven,seven_day,stock_traded,session_stock,nyse_exchange,traded_lowest
+Topic 1,implied_volatility,long_term,earnings_growth,level_implied,high_level,underlying_stock,growth_rate,option_trader,term_earnings,share_share
+Topic 2,oil_price,revenue_slipped,barrel_barrel,moving_average,sale_grew,earnings_surprise,total_revenue,quarter_average,positive_earnings,long_term
+Topic 3,revenue_miss,basis_point,miss_revenue,far_share,hand_normal,normal_session,came_solid,solid_far,changing_hand,share_changing
+Topic 4,trade_close,point_trade,close_point,worst_performer,performer_session,late_trade,trade_worst,point_late,point_end,point_performer
+Topic 5,press_releasenow,releasenow_read,predictive_power,earnings_reading,consensus_eps,earnings_miss,negative_earnings,revenue_press,large_cap,airline_stock
+Topic 6,estimate_revision,earnings_estimate,earnings_report,change_following,just_released,earnings_release,ahead_earnings,trend_earnings,term_stock,near_term
